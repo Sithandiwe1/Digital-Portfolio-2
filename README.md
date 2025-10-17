@@ -1,8 +1,11 @@
-# Business Communication Portfolio
+# Welcome to Sithandiwe Asanda digital portfolio
 
-## Evidence: Business Communication Fundamentals Online Module
+# Created as part of the PRP370-1-2S Project Presentation 3 assessment at Cape Peninsula University of Technology (CPUT). This portfolio showcases the evidence and personal reflections from my participation in the Work Readiness Training Programme. environment. The goal is to present a polished, accessible summary of my development, suitable for academic evaluation and potential employers.
+# 1. Business Communication 
 
-This evidence is a certificate of completion and performance report for an interactive online module on Business Communication, which I completed with a 100% score. The module covered core principles including the purpose of business communication, verbal and non-verbal cues, formal language usage, professional email tone, and video conferencing etiquette. I successfully answered all assessment questions correctly, demonstrating a practical understanding of these concepts, and invested 37 minutes and 8 seconds in this focused learning activity to build a foundational skill set for professional interactions.
+## Evidence: Business Communication 
+
+This evidence is a certificate of completion and performance report for an interactive online module on Business Communication, which I completed with a 100% score. The module covered core principles including the purpose of business communication, verbal and non-verbal cues, formal language usage, professional email tone, and video conferencing etiquette. I successfully answered all assessment questions correctly, demonstrating a practical understanding of these concepts, and invested in this focused learning activity to build a foundational skill set for professional interactions.
 
 ## Reflection: STAR Technique
 
@@ -19,9 +22,9 @@ I systematically worked through all the learning materials in the module, taking
 The direct result was a 100% score on the assessment, confirming my understanding of the module's concepts. More importantly, I now have a clear, actionable framework for my professional interactions. I feel confident in my ability to choose the appropriate language for different situations, maintain a professional tone in my writing, and adhere to etiquette in virtual meetings. This learning has directly equipped me with the essential soft skills needed to be an effective and respectful communicator in the workplace.
 
 
-# Interview Skills Portfolio
+# 2. Interview Skills 
 
-## Evidence: Interview Skills Online Module
+## Evidence: Interview Skills 
 
 This evidence consists of completion data and performance metrics from an interactive online learning module on Interview Skills. The module covered essential interview preparation techniques and response strategies, including understanding interview purposes, mastering structured response methods like CAR, conducting company research, and effectively answering common behavioral questions. I completed the module with an 80% overall score, spending 21 minutes and 25 minutes engaged with the material. The assessment featured a unique learning opportunity where initial incorrect answers were followed by immediate correction and mastery, as shown in the detailed quiz results where I successfully corrected my understanding of key concepts like the primary purpose of interviews, company research importance, and effective strategies for answering "Tell me about yourself" and weakness questions on the second attempt.
 
@@ -39,9 +42,9 @@ I engaged systematically with the interview skills content, focusing on practica
 ### Result
 The outcome was an 80% module completion with demonstrated learning progression, as evidenced by correcting all initially missed concepts. More significantly, I developed a resilient understanding of interview fundamentals that will serve me in real-world scenarios. I now possess practical frameworks for preparing for company research, structuring responses using proven methods, and transforming potential weaknesses into demonstrated growth opportunities - all essential skills for successful job interviewing in the competitive ICT industry.
 
-# Mock Interview Portfolio
+# 3. Mock Interview 
 
-## Evidence: Professional Mock Interview Assessment
+## Evidence: Professional Mock Interview 
 
 This evidence documents my participation in a comprehensive mock interview conducted earlier this year as part of the work readiness training program. The simulated interview followed a formal structure mirroring real-world IT industry interviews, featuring a panel of assessors and covering technical knowledge, behavioral competencies, and situational problem-solving questions relevant to the ICT field. I prepared extensively by researching common interview questions, reviewing my technical portfolio, and practicing the STAR response method. During the 45-minute session, I demonstrated my project experience, addressed challenging scenario-based questions, and received detailed feedback on both my strengths and areas for development, particularly in articulating technical concepts to non-technical audiences and improving my closing statements. The simulation was designed to replicate the pressure and structure of real job interviews in the ICT industry, using an innovative format where I served as both candidate and interviewer.
 
@@ -60,7 +63,7 @@ I began by developing a comprehensive question bank covering technical fundament
 ### Result
 The mock interview provided invaluable practical experience and specific feedback that highlighted my strong technical foundation and project knowledge, while identifying key areas for improvement in my interview technique. This self-directed mock interview produced unexpectedly valuable outcomes. The format revealed my natural response patterns and highlighted specific areas where I struggled with immediate problem articulation. By reviewing the recordings, I identified several technical concepts that needed deeper understanding and noticed communication habits (such as filler words and rushed explanations) that required refinement. The experience dramatically improved my ability to think under pressure and organize my thoughts quickly. Most importantly, it demonstrated my proactive approach to professional development and ability to create effective learning opportunities independently - a valuable skill in the rapidly evolving ICT industry where self-directed learning is essential for career growth. This experience directly boosted my confidence for real interviews and provided me with actionable insights to refine my interview strategy, particularly in tailoring my communication style to different audience types and strengthening my overall presentation as a candidate. Most importantly, it transformed my understanding of interviews from being interrogations to opportunities for genuine professional dialogue, a mindset shift that has fundamentally improved my approach to professional communication and self-presentation in high-stakes situations.
 
-# Professional Networking Portfolio
+# 4. Professional Networking 
 
 ## Evidence: Professional Networking Fundamentals Online Module
 
@@ -80,7 +83,7 @@ I systematically worked through the networking module, focusing on the strategic
 ### Result
 The outcome was a perfect 100% score on the assessment, confirming my mastery of networking fundamentals. More importantly, I gained a strategic framework for building professional relationships that I have already begun implementing. I now understand that effective networking begins with identifying current connections and focuses on mutual benefit rather than immediate personal gain. This learning has equipped me with the confidence to approach networking events with clear purpose and the knowledge to avoid common pitfalls that could damage professional relationships. These skills are already proving valuable as I begin to expand my professional network within the ICT community, applying the principle that genuine relationship-building is a long-term investment in professional growth.
 
-# Workplace Etiquette Portfolio
+# 5. Workplace Etiquette 
 
 ## Evidence: Workplace Etiquette Fundamentals Online Module
 
