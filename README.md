@@ -1,6 +1,7 @@
-# Welcome to Sithandiwe Asanda digital portfolio
+# Welcome to Sithandiwe Asanda Ntombela Digital portfolio
 
-# Created as part of the PRP370-1-2S Project Presentation 3 assessment at Cape Peninsula University of Technology (CPUT). This portfolio showcases the evidence and personal reflections from my participation in the Work Readiness Training Programme. environment. The goal is to present a polished, accessible summary of my development, suitable for academic evaluation and potential employers.
+# Created as part of the PRP370-1-2S Project Presentation 3 assessment at Cape Peninsula University of Technology (CPUT). This portfolio showcases the evidence and personal reflections from my participation in the Work Readiness Training Programme environment. 
+
 # 1. Business Communication 
 
 ## Evidence: Business Communication 
